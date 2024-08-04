@@ -1,0 +1,28 @@
+.logo{
+    width: 40px;
+    height: 50px;
+}
+.icon{
+    background-image: url(Assets/icon-removebg-preview.png); 
+    background-repeat: no-repeat;
+  width: 150px;
+  height: 70px;
+
+  
+}
+
+div a{
+    text-decoration: none;
+    
+}
+div li{
+    list-style: none;
+}
+.top{
+    display: block;
+    unicode-bidi: isolate;
+    border-color: inherit;
+}
+.bottom{
+    background-color: rgb(223, 218, 218);
+}
